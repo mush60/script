@@ -9,3 +9,7 @@ penjelasan: n adalah 2, dan jumlah maksimal dari pasangan2 adalah 4 = min(1,2) +
 catatan:
 - panjang array maksimal dari 1 sampai 10000
 - semua angka didalam array antara -1000, 10000
+
+
+source :
+https://indoxxi.cx/loker/
