@@ -1,23 +1,11 @@
 # script
-input jumlah array genap : 4
-insert array 0 3
-insert array 1 1
-insert array 2 3
-insert array 3 1
-Array
-(
-    [0] => Array
-        (
-            [0] => 1
-            [1] => 1
-        )
 
-    [1] => Array
-        (
-            [0] => 3
-            [1] => 3
-        )
+Diketahui input
+berisi array dengan panjang genap dan berisi angka (diurutkan terlebih dahulu). Buatlah grup dari angka2 tersebut menjadi berpasangan seperti (a1,b1), (a2,b2),...(an,bn) yang membuat jumlah dari angka terkecil pasangan2 tersebut (ai,bi) untuk semua i dari 1
 
-)
-Total Minimun Array : 4
-done
+contoh input: [1,4,3,2],
+
+penjelasan: n adalah 2, dan jumlah maksimal dari pasangan2 adalah 4 = min(1,2) + min(3,4) 
+catatan:
+- panjang array maksimal dari 1 sampai 10000
+- semua angka didalam array antara -1000, 10000
